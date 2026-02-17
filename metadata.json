@@ -1,0 +1,7 @@
+{
+  "name": "Jasuke HUB Marketplace",
+  "description": "A high-end marketplace for immersive technology services including AR/VR, Game Development, and Interactive Marketing devices, featuring escrow payments and AI-assisted project management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
